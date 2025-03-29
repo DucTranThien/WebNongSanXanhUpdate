@@ -64,28 +64,30 @@ This is the landing page for users to explore organic agricultural products, inc
 ### 👤 2. User Profile Page
 Users can manage their personal information, update profile pictures, phone numbers, and especially set a **default delivery address** used during checkout.
 
-![User Profile](https://github.com/user-attachments/assets/your-image-path-2.png)
+![User Profile](![image](https://github.com/user-attachments/assets/1c7f99c7-ba5a-463b-90e3-41c8e69a1408)
 
 ---
 
 ### 📝 3. Apply to Become an Agency
 Users can go through a step-by-step form to apply to become a **Product Agency**. After submitting, the request is placed into a "Pending Approval" state awaiting Admin review.
 
-![Agency Registration Pending](https://github.com/user-attachments/assets/your-image-path-3.png)
+![Agency Registration Pending]![image](https://github.com/user-attachments/assets/2c31e2db-c39a-4dec-a619-2e73f4e386e0)
 
 ---
 
 ### 🏪 4. Agency Homepage
 Once approved, the user becomes an agency and gains access to their storefront. They can view other content writers' farm pages and explore available products.
 
-![Agency Homepage](https://github.com/user-attachments/assets/your-image-path-4.png)
+![Agency Homepage](![image](https://github.com/user-attachments/assets/45316d1a-df0c-4fc3-99e7-25eee8e65065)
+)
 
 ---
 
 ### 📊 5. Agency Dashboard
 Agencies can manage their own product listings, track revenue, and see monthly statistics about their product sales. Features include filters, bar/line charts, and real-time numbers.
 
-![Agency Dashboard](https://github.com/user-attachments/assets/your-image-path-5.png)
+![Agency Dashboard](![Uploading image.png…]()
+)
 
 ---
 
