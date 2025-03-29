@@ -1,6 +1,6 @@
 # 🧑‍🌾 Web Nông Sản Xanh
 
-A full-featured web application for managing clean agricultural products, developed as part of academic projects using **ASP.NET Core MVC**.
+A full-featured web application for managing clean agricultural products, developed as part of academic projects using **ASP.NET Core MVC** and **SQL Server**.
 
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
@@ -18,7 +18,7 @@ The system includes **role-based access**, article/blog publishing, and a produc
 - 💻 **Backend**: C#, ASP.NET Core MVC
 - 🗃️ **Database**: SQL Server, Entity Framework Core
 - 🌐 **Frontend**: HTML, CSS, Bootstrap, JavaScript
-- ⚙️ **Tools**: Visual Studio, Postman, XAMPP
+- ⚙️ **Tools**: Visual Studio, SQL Server Management Studio (SSMS), Postman
 - 🧪 **Testing**: Manual testing via Postman
 - 🛠️ **Other**: Role-based authentication, Razor views
 
@@ -49,4 +49,7 @@ The system supports **4 types of users**, each with dedicated permissions:
 ---
 
 ## 📷 Project Structure
+
+![image](https://github.com/user-attachments/assets/4b510302-6d91-4a1a-9f1e-b7dda3ba1102)
+
 
