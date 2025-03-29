@@ -41,12 +41,16 @@ The system supports **4 types of users**, each with dedicated permissions:
 
 ## 📚 Main Features
 
-- ✅ User registration & login with secure password hashing
-- ✅ CRUD operations for products, articles, and categories
-- ✅ Product ordering and order history
-- ✅ Admin dashboard for global management
-- ✅ Blog/news publishing and editing
-- ✅ Responsive design for desktop and mobile
+- ✅ User registration & login with secure password hashing  
+- ✅ Forgot password functionality with reset link sent via email  
+- ✅ Users can apply to become Agencies directly from their profile  
+- ✅ CRUD operations for products, articles, and categories  
+- ✅ Product ordering and order history management  
+- ✅ Multiple payment methods supported: **Cash on Delivery (COD)** and **VNPAY integration**  
+- ✅ Default shipping address management in user profile  
+- ✅ Admin dashboard for managing users, products, categories, and analytics  
+- ✅ Blog/news publishing and editing by Content Writers  
+- ✅ Responsive design optimized for both desktop and mobile devices  
 
 ---
 
