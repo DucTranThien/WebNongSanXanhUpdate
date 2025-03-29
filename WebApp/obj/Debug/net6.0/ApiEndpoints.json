@@ -1,0 +1,190 @@
+[
+  {
+    "ContainingType": "WebApp.Areas.Admin.Controllers.ChartApiController",
+    "Method": "AddVisitor",
+    "RelativePath": "api/products/AddVisitor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApp.Areas.Admin.Controllers.ChartApiController",
+    "Method": "AddVisitor",
+    "RelativePath": "api/products/AddVisitor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApp.Areas.Admin.Controllers.ChartApiController",
+    "Method": "GetVisitorData",
+    "RelativePath": "api/products/GetVisitorData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "startDate",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApp.Areas.Admin.Controllers.ChartApiController",
+    "Method": "GetTotalPriceByMonthInYear",
+    "RelativePath": "api/products/total-price/{year}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "year",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApp.Areas.Admin.Controllers.ChartApiController",
+    "Method": "GetTotalQuantityByMonthInYear",
+    "RelativePath": "api/products/total-quantity/{year}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "year",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApp.Areas.Manager.Controllers.ChartApiController",
+    "Method": "GetTotalPriceDaiLyByMonthInYear",
+    "RelativePath": "api/productsDaiLy/total-price/{year}/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "year",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApp.Areas.Manager.Controllers.ChartApiController",
+    "Method": "GetTotalQuantityDaiLyByMonthInYear",
+    "RelativePath": "api/productsDaiLy/total-quantity/{year}/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "year",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApp.Areas.Admin.Controllers.ChartApiController",
+    "Method": "AddVisitor",
+    "RelativePath": "api/Statistics/AddVisitor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApp.Areas.Admin.Controllers.ChartApiController",
+    "Method": "AddVisitor",
+    "RelativePath": "api/Statistics/AddVisitor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApp.Areas.Admin.Controllers.ChartApiController",
+    "Method": "GetVisitorData",
+    "RelativePath": "api/Statistics/GetVisitorData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "startDate",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApp.Areas.Admin.Controllers.ChartApiController",
+    "Method": "GetTotalPriceByMonthInYear",
+    "RelativePath": "api/Statistics/total-price/{year}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "year",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApp.Areas.Admin.Controllers.ChartApiController",
+    "Method": "GetTotalQuantityByMonthInYear",
+    "RelativePath": "api/Statistics/total-quantity/{year}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "year",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
