@@ -53,6 +53,7 @@ The system supports **4 types of users**, each with dedicated permissions:
 - ✅ Responsive design optimized for both desktop and mobile devices  
 
 ---
+## 📸 Highlighted Functionalities & Feature Screenshots
 
 ### 🏠 1. Homepage – Web Nông Sản Xanh
 This is the landing page for users to explore organic agricultural products, including vegetables, fruits, and more. The page emphasizes clean food and encourages users to start shopping.
