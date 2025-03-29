@@ -8,7 +8,9 @@ A full-featured web application for managing clean agricultural products, develo
 
 ## 📌 Overview
 
-**Web Nông Sản Xanh** is an agricultural e-commerce platform that allows users to explore, post, and manage agricultural products.  
+**Web Nông Sản Xanh** is an agricultural e-commerce platform that allows users to explore, purchase products, become agents, publish articles, and manage agricultural listings.  
+The platform also aims to expand connections between agents and suppliers — primarily local farmers — enabling them to contact and visit each other directly.  
+This creates opportunities for collaboration and supports the development of Vietnam’s agricultural industry.  
 The system includes **role-based access**, article/blog publishing, and a product ordering workflow – ideal for learning and applying backend development skills.
 
 ---
@@ -52,4 +54,8 @@ The system supports **4 types of users**, each with dedicated permissions:
 
 ![image](https://github.com/user-attachments/assets/4b510302-6d91-4a1a-9f1e-b7dda3ba1102)
 
+---
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
