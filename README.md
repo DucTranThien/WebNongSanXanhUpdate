@@ -30,12 +30,12 @@ The system includes **role-based access**, article/blog publishing, and a produc
 
 The system supports **4 types of users**, each with dedicated permissions:
 
-| Role           | Description                                                                 |
-|----------------|-----------------------------------------------------------------------------|
-| 🧑‍🌾 User         | View and order agricultural products                                        |
-| 🛠️ Admin         | Manage all system data: users, products, categories, posts                 |
-| 🏪 Agency        | Manage their own product listings                                           |
-| ✍️ Content Writer | Create and publish news/blog posts related to agriculture                  |
+| Role             | Description                                                                                                                       |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| 🧑‍🌾 User          | Can browse and purchase agricultural products. Users also have the ability to apply for an agency role directly from their account. |
+| 🛠️ Admin          | Has full control over the system: manage users, products, categories, view revenue statistics, approve agency requests, and review agency product listings before they go live on the homepage. |
+| 🏪 Agency         | Can perform full CRUD operations on their own product listings. Agencies can also view the farm page of Content Writers to discover products posted there. |
+| ✍️ Content Writer | Can create, read, update, and delete their own agricultural news articles. They are allowed to view articles posted by others, but cannot modify them. |
 
 ---
 
