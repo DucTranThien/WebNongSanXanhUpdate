@@ -54,9 +54,67 @@ The system supports **4 types of users**, each with dedicated permissions:
 
 ---
 
-## 📷 Project Structure
+### 🏠 1. Homepage – Web Nông Sản Xanh
+This is the landing page for users to explore organic agricultural products, including vegetables, fruits, and more. The page emphasizes clean food and encourages users to start shopping.
 
-![image](https://github.com/user-attachments/assets/4b510302-6d91-4a1a-9f1e-b7dda3ba1102)
+![Homepage](https://github.com/user-attachments/assets/your-image-path-1.png)
+
+---
+
+### 👤 2. User Profile Page
+Users can manage their personal information, update profile pictures, phone numbers, and especially set a **default delivery address** used during checkout.
+
+![User Profile](https://github.com/user-attachments/assets/your-image-path-2.png)
+
+---
+
+### 📝 3. Apply to Become an Agency
+Users can go through a step-by-step form to apply to become a **Product Agency**. After submitting, the request is placed into a "Pending Approval" state awaiting Admin review.
+
+![Agency Registration Pending](https://github.com/user-attachments/assets/your-image-path-3.png)
+
+---
+
+### 🏪 4. Agency Homepage
+Once approved, the user becomes an agency and gains access to their storefront. They can view other content writers' farm pages and explore available products.
+
+![Agency Homepage](https://github.com/user-attachments/assets/your-image-path-4.png)
+
+---
+
+### 📊 5. Agency Dashboard
+Agencies can manage their own product listings, track revenue, and see monthly statistics about their product sales. Features include filters, bar/line charts, and real-time numbers.
+
+![Agency Dashboard](https://github.com/user-attachments/assets/your-image-path-5.png)
+
+---
+
+### 🛠️ 6. Admin Dashboard
+The Admin has full control over the system: managing categories, certifications, users, and traffic statistics. Graphs show user visit counts throughout the year.
+
+![Admin Dashboard](https://github.com/user-attachments/assets/your-image-path-6.png)
+
+---
+
+### ✅ 7. Approve New Agency
+Admin reviews and approves new agency applications. Only approved accounts can post products for sale.
+
+![Approve Agency](https://github.com/user-attachments/assets/your-image-path-7.png)
+
+---
+
+### 🛒 8. Approve Agency Products
+Admin can review each new product submitted by agencies. Only after approval will the products appear on the homepage for users to purchase.
+
+![Approve Products](https://github.com/user-attachments/assets/your-image-path-8.png)
+
+---
+
+### ✍️ 9. Agricultural Post Management (Content Writer)
+Content Writers can manage and publish agricultural news and product-related articles. The system uses a **Classic Editor** for creating, updating, and organizing posts efficiently.  
+Writers can update their own posts and view articles created by others.
+
+![Post Management](https://github.com/user-attachments/assets/your-image-path-9.png)
 
 ---
 
